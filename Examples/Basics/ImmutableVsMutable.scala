@@ -1,4 +1,4 @@
-object ImmutableVsMutables
+object ImmutableVsMutable
 {
     def main(args: Array[String])
     {
