@@ -19,3 +19,6 @@ Test code your write (online compilers):
 * https://www.tutorialspoint.com/compile_scala_online.php
 * https://scalafiddle.io/
 * https://paiza.io/en/languages/scala
+
+Comparison to F#:
+* https://mikhail.io/2016/08/comparing-scala-to-fsharp/
