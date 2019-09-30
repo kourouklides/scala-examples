@@ -11,5 +11,7 @@ object Tuples
 
         println(average(10.0, 20.0))
         println(swap("Web", 2.0))
+        println(swap (20, 30))
+        
     }
 }
